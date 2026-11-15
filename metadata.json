@@ -1,0 +1,6 @@
+{
+  "name": "Smart Cyber Scam Investigator",
+  "description": "AI-powered digital forensics and cyber scam investigation platform for analyzing suspicious messages, URLs, phone numbers, emails, and screenshots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
